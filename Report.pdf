@@ -1,0 +1,39 @@
+ICS 435
+Machine Learning
+Spring 2026
+Assignment Report Example
+ 
+(font size: 10, single space, maximum report length: no more than 4 pages.
+Please delete/update the highlighted parts in red fonts in this report template to enter your contents)
+ 
+Section 1: Task Description
+(Please provide a brief description of your studied task in this project)
+ 
+Section 2: Model Description
+(Please draw a plot about the model architecture and provide necessary description of the model used)
+ 
+Section 3: Experiment Settings
+ 
+3.1 Dataset Description
+(what are the datasets used in the project, how to partition the training/testing sets)
+ 
+3.2 Detailed Experimental Setups
+Detail your model settings and hyperparameters for each classifier.
+If you experimented with multiple hyperparameter configurations, describe these variations.
+ 
+3.3 Evaluation Metrics
+Describe the evaluation metrics used (Accuracy, Precision, Recall, F1-Score). Provide a brief explanation of their significance in binary classification.
+ 
+3.4 Source Code
+(Please upload your code to github and add the link here)
+ 
+ 
+3.5 Model Performance
+Present the performance results of each model (Accuracy, Precision, Recall, F1-Score) in a table or plot.
+Include confusion matrices for each classifier.
+ 
+3.6 Ablation Studies
+Discuss how hyperparameter tuning impacted model performance. Present a comparison of results based on different hyperparameter configurations.
+ 
+Section 4: Conclusion
+Summarize your findings. Highlight the strengths and weaknesses of each model based on the results. Discuss which model performed best for the given task and why.
